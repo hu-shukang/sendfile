@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Futura-Medium';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Futura-Medium'), url('https://fonts.cdnfonts.com/s/62862/FUTURAMEDIUM.woff') format('woff');
+}
+@font-face {
+    font-family: 'Blacklisted';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Blacklisted'), url('https://fonts.cdnfonts.com/s/62862/Blacklisted.woff') format('woff');
+}
