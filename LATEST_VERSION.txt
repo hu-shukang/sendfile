@@ -1,0 +1,1 @@
+{"rpm":"releases/codedeploy-agent-1.6.0-49.noarch.rpm","deb":"releases/codedeploy-agent_1.6.0-49_all.deb","msi":"releases/codedeploy-agent-1.6.0.49.msi"}
