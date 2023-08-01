@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cascade>
+  <stageType>BOOST</stageType>
+  <featureType>LBP</featureType>
+  <height>28</height>
+  <width>36</width>
+  <stageParams>
+    <boostType>GAB</boostType>
+    <minHitRate>9.9900001287460327e-01</minHitRate>
+    <maxFalseAlarm>5.0000000745058060e-02</maxFalseAlarm>
+    <weightTrimRate>9.4999999999999996e-01</weightTrimRate>
+    <maxDepth>1</maxDepth>
+    <maxWeakCount>100</maxWeakCount></stageParams>
+  <featureParams>
+    <maxCatCount>256</maxCatCount>
+    <featSize>1</featSize></featureParams>
+  <stageNum>1</stageNum>
+  <stages>
+    <!-- stage 0 -->
+    <_>
+      <maxWeakCount>4</maxWeakCount>
+      <stageThreshold>2.3926261067390442e-01</stageThreshold>
+      <weakClassifiers>
+        <_>
+          <internalNodes>
+            0 -1 2 -52 -98304 -2 2147467199 -65562 -1073741826
+            2147483310 868976779</internalNodes>
+          <leafValues>
+            -8.4313726425170898e-01 9.5177090167999268e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 3 -776224050 -788070271 268468224 -989527933 41097
+            805371904 -1073659775 841286403</internalNodes>
+          <leafValues>
+            -8.0754166841506958e-01 9.4380354881286621e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 0 16838672 -105038408 1862065853 1572192191 -1078673415
+            -9437697 775925663 -1346556790</internalNodes>
+          <leafValues>
+            -7.6518046855926514e-01 9.4203299283981323e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 1 -763111286 994115715 229385 -1996255167 -2147123054
+            146 8421519 1092321351</internalNodes>
+          <leafValues>
+            -8.0343663692474365e-01 9.3747133016586304e-01</leafValues></_></weakClassifiers></_></stages>
+  <features>
+    <_>
+      <rect>
+        8 8 7 2</rect></_>
+    <_>
+      <rect>
+        12 8 3 5</rect></_>
+    <_>
+      <rect>
+        15 5 4 5</rect></_>
+    <_>
+      <rect>
+        21 10 3 5</rect></_></features></cascade>
+</opencv_storage>
